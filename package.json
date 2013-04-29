@@ -22,8 +22,7 @@
         "browserify": "~2.5.1"
     },
     "scripts": {
-        "test": "tap test/*.js",
-        "prepublish": "./bundle.sh"
+        "test": "tap test/*.js"
     },
     "repository": {
         "type": "git",
